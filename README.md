@@ -1,2 +1,2 @@
-
+c*h alloowwddd dont be shsyyyshy
 ![Image](https://github.com/user-attachments/assets/14b67f95-880e-4449-b554-cbc1bb45b274)
