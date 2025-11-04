@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/1cf7cd4d-f2a8-4114-ae1e-2b945d4962fe)
+![Image](https://github.com/user-attachments/assets/b88cf8ef-084c-461c-89f6-78eff683c7c5)
 
 ───────── ![Gif](https://supplies.ju.mp/assets/images/tiny1/064f6c03_original.gif?v=1c1ba870)
 ![Gif](https://supplies.ju.mp/assets/images/tiny1/2fb80353_original.gif?v=1c1ba870)
