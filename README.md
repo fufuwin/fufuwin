@@ -2,7 +2,7 @@
 
 ───────── ![Gif](https://supplies.ju.mp/assets/images/tiny1/064f6c03_original.gif?v=1c1ba870)
 ![Gif](https://supplies.ju.mp/assets/images/tiny1/2fb80353_original.gif?v=1c1ba870)
-![Gif](https://supplies.ju.mp/assets/images/tiny1/7ec3c3fa_original.gif?v=1c1ba870)───────
+![Gif](https://supplies.ju.mp/assets/images/tiny1/7ec3c3fa_original.gif?v=1c1ba870)──────── ᢉ𐭩ᢉ𐭩
 
 
 
