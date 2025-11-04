@@ -1,5 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/1cf7cd4d-f2a8-4114-ae1e-2b945d4962fe)
 
+![Gif](https://supplies.ju.mp/assets/images/gallery04/d4d842eb_original.gif?v=1c1ba870)
+
+<div align="center">
+♡
+</div>
+
 <div align="center">
   "In the name of love, she'll treasure all that has faded"
 </div>
