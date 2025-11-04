@@ -1,9 +1,13 @@
 ![Image](https://github.com/user-attachments/assets/1cf7cd4d-f2a8-4114-ae1e-2b945d4962fe)
 
-![Gif](https://supplies.ju.mp/assets/images/gallery04/d4d842eb_original.gif?v=1c1ba870)
+────────  ![Gif](https://supplies.ju.mp/assets/images/tiny1/064f6c03_original.gif?v=1c1ba870)
+![Gif](https://supplies.ju.mp/assets/images/tiny1/2fb80353_original.gif?v=1c1ba870)
+![Gif](https://supplies.ju.mp/assets/images/tiny1/7ec3c3fa_original.gif?v=1c1ba870)────────
+
+
 
 <div align="center">
-♡
+ᢉ𐭩
 </div>
 
 <div align="center">
