@@ -1,11 +1,10 @@
-![Image](https://github.com/user-attachments/assets/b88cf8ef-084c-461c-89f6-78eff683c7c5)
-
+![Image](https://github.com/user-attachments/assets/27143d8b-c193-48cc-b7d0-db7f19873719)
 <div align="center">
 ᢉ𐭩
 </div>
 
 <div align="center">
-  "In the name of love, she'll treasure all that has faded"
+  "𝓘𝓷 𝓽𝓱𝓮 𝓷𝓪𝓶𝓮 𝓸𝓯 𝓵𝓸𝓿𝓮, 𝓼𝓱𝓮'𝓵𝓵 𝓽𝓻𝓮𝓪𝓼𝓾𝓻𝓮 𝓪𝓵𝓵 𝓽𝓱𝓪𝓽 𝓱𝓪𝓼 𝓯𝓪𝓭𝓮𝓭"
 </div>
 <div align="center">
   . . . ♡ 사랑의 이름으로 그녀는 빛바랜 모든 것을 소중히 여길 거예요
