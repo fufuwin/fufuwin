@@ -1,13 +1,6 @@
 
-
-![Image](https://github.com/user-attachments/assets/6e02ea45-7634-46df-a785-4ddd0b012a31)
-<div align="center">
-ᢉ𐭩
-</div>
+![Image](https://github.com/user-attachments/assets/e7f75fc9-ca52-4f45-b164-660ce128c4c4)
 
 <div align="center">
-  "𝓘𝓷 𝓽𝓱𝓮 𝓷𝓪𝓶𝓮 𝓸𝓯 𝓵𝓸𝓿𝓮, 𝓼𝓱𝓮'𝓵𝓵 𝓽𝓻𝓮𝓪𝓼𝓾𝓻𝓮 𝓪𝓵𝓵 𝓽𝓱𝓪𝓽 𝓱𝓪𝓼 𝓯𝓪𝓭𝓮𝓭"
-</div>
-<div align="center">
-  . . . ♡ 사랑의 이름으로 그녀는 빛바랜 모든 것을 소중히 여길 거예요
+free cuds/w2i , don be scarewd 
 </div>
