@@ -1,6 +1,6 @@
 <div align="center">
-  "Little dove.."
-  [ art by me ; ]
+  "𝐋𝐢𝐭𝐭𝐥𝐞 𝐝𝐨𝐯𝐞...."
+   ᵃʳᵗ ᵇʸ ᵐᵉ .
 </div>
 <img width="1500" height="1800" alt="Image" src="https://github.com/user-attachments/assets/e23d4459-bfd3-49c6-863c-82a4a115fa09" />
 
