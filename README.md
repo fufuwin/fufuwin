@@ -1,6 +1,9 @@
+<div align="center">
+by me
+</div>
 
+![Image](https://github.com/user-attachments/assets/bd6a436b-5a3e-41fe-b6b6-66ce68a38461)
 
-![Image](https://github.com/user-attachments/assets/21d6c8d3-a899-4e66-9999-1b0bce71353c)
 <div align="center">
 cuds/w2i freely . if I not respond I might be afk 
 </div>
