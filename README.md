@@ -1,5 +1,5 @@
 <div align="center">
-by me (>>ω<)>
+by me yay
 </div>
 
 ![Image](https://github.com/user-attachments/assets/d3eab134-e3f8-4c49-b220-4f766025c748)
