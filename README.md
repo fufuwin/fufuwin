@@ -1,6 +1,4 @@
-
-
-<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/d195f0b1-e61e-43bb-8a2e-e222ac233211" />
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/5acfa37d-492e-496c-883c-461f5225abb7" />
 <div align="center">
 . 𝘴𝘢𝘧𝘦 𝘴𝘦𝘳𝘷𝘦𝘳 .
 </div>
