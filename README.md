@@ -1,15 +1,18 @@
-<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/5acfa37d-492e-496c-883c-461f5225abb7" />
+![Image](https://github.com/user-attachments/assets/7b3658f2-80db-41f7-96c8-928f4b83ea96)
+
 <div align="center">
-. 𝘴𝘢𝘧𝘦 𝘴𝘦𝘳𝘷𝘦𝘳 .
+  
+![gif](https://github.com/user-attachments/assets/35efd7ea-b1f5-4cf9-b587-83678e249dfb)
+
 </div>
+
+
 <div align="center">
-𝘄𝟮𝗶
+"Time is short, The moon's fall, is nigh..."
 </div>
+
+
 <div align="center">
+  w2i .
   𝗜𝗳 𝗜 𝘀𝗹𝗼𝘄 𝗿𝗲𝘀𝗽𝗼𝗻𝗱 𝗜 𝗺𝗶𝗴𝗵𝘁 𝗯𝗲 𝗼𝗳𝗳𝘁𝗮𝗯!
-</div>
-<div align="center">
-<gif https://github.com/user-attachments/assets/35efd7ea-b1f5-4cf9-b587-83678e249dfb)
-
-
 </div>
