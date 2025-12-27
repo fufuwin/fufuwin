@@ -8,7 +8,7 @@
 
 
 <div align="center">
-"Time is short, The moon's fall, is nigh..."
+"Time is short, The moon's fall, is nigh.."
 </div>
 
 
