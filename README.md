@@ -10,9 +10,3 @@
 <div align="center">
 "Time is short, The moon's fall, is nigh.."
 </div>
-
-
-<div align="center">
-  w2i .
-  𝗜𝗳 𝗜 𝘀𝗹𝗼𝘄 𝗿𝗲𝘀𝗽𝗼𝗻𝗱 𝗜 𝗺𝗶𝗴𝗵𝘁 𝗯𝗲 𝗼𝗳𝗳𝘁𝗮𝗯!
-</div>
