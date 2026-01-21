@@ -11,5 +11,5 @@
   너 정말 아름다워
   </div>
 <div align="center">
-ᵇʸ ᵐᵉ
+ᵃʳᵗ ᵇʸ ᵐᵉ
 </div>
