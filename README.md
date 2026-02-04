@@ -5,7 +5,7 @@
 <p align="center">
   
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c3287828-f1fe-44fa-a85c-9e7da5c38040" />
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/a8b08922-1142-4679-94a9-9d564eda1e26" />
 
 <div align="center">
   너 정말 아름다워
