@@ -3,9 +3,9 @@
   href="https://fufuwin.atabook.org/"><b>ᴀᴛᴀ ʙᴏᴏᴋ</b></a>
   &nbsp;&nbsp;&nbsp; 
 <p align="center">
-  
 
-![Image](https://github.com/user-attachments/assets/2ad72f71-34b9-4e97-835b-c60908d55627)
+![Image](https://github.com/user-attachments/assets/9f46d5ff-61dc-461a-91ed-b4e623a95fd4)
+
 <div align="center">
 ᴷᴿ / ᴱᴺᴳ
 </div>
