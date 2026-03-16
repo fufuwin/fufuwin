@@ -4,7 +4,7 @@
   &nbsp;&nbsp;&nbsp; 
 <p align="center">
 
-![Image](https://github.com/user-attachments/assets/9f46d5ff-61dc-461a-91ed-b4e623a95fd4)
+![Image](https://github.com/user-attachments/assets/81ab05d3-d1a1-4b2c-9b21-83ceac59b321)
 
 <div align="center">
 ᴷᴿ / ᴱᴺᴳ
