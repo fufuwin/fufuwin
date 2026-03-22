@@ -3,12 +3,13 @@
   href="https://fufuwin.atabook.org/"><b>ᴀᴛᴀ ʙᴏᴏᴋ</b></a>
   &nbsp;&nbsp;&nbsp; 
 <p align="center">
-
-![Image](https://github.com/user-attachments/assets/81ab05d3-d1a1-4b2c-9b21-83ceac59b321)
-
+  
 <div align="center">
-ᴷᴿ / ᴱᴺᴳ
+ᴷᴿ • ᴱᴺᴳ
 </div>
+  
+<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/5aaae98e-4157-406b-9f2a-a6c1f81c2feb" />
+
 <div align="center">
   너 정말 아름다워
   </div>
