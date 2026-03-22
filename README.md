@@ -10,7 +10,6 @@
   
 <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/5aaae98e-4157-406b-9f2a-a6c1f81c2feb" />
 
-<img width="3000" height="800" alt="Image" src="https://github.com/user-attachments/assets/d25e89e9-d001-4c77-8630-785ff9949686" />
 
 <div align="center">
   너 정말 아름다워
