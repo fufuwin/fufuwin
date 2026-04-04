@@ -7,9 +7,12 @@
 <div align="center">
 ᴷᴿ • ᴱᴺᴳ
 </div>
-  
-<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/5aaae98e-4157-406b-9f2a-a6c1f81c2feb" />
 
+  <div align="center">
+    ᵃʳᵗ ᵇʸ ᵐᵉ
+    </div>
+    
+![Image](https://github.com/user-attachments/assets/a66b0c09-4657-4040-ac99-2a0b1aeb3425)
 
 <div align="center">
   너 정말 아름다워
