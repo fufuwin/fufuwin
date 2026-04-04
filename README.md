@@ -12,7 +12,7 @@
     ᵃʳᵗ ᵇʸ ᵐᵉ
     </div>
     
-![Image](https://github.com/user-attachments/assets/a66b0c09-4657-4040-ac99-2a0b1aeb3425)
+![Image](https://github.com/user-attachments/assets/4d0ccc07-7575-41a1-9806-30b2d6023df3)
 
 <div align="center">
   너 정말 아름다워
