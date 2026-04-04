@@ -4,15 +4,16 @@
   &nbsp;&nbsp;&nbsp; 
 <p align="center">
   
-<div align="center">
-ᴷᴿ • ᴱᴺᴳ
-</div>
 
   <div align="center">
     ᵃʳᵗ ᵇʸ ᵐᵉ
     </div>
     
 ![Image](https://github.com/user-attachments/assets/4d0ccc07-7575-41a1-9806-30b2d6023df3)
+
+<div align="center">
+ᴷᴿ • ᴱᴺᴳ
+</div>
 
 <div align="center">
   너 정말 아름다워
