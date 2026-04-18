@@ -5,7 +5,7 @@
 <p align="center">
   
 
- <img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/f8997e57-3e00-4399-aa7e-b3d9bad97bc6" />
+ <img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/5a45c0dd-9b60-44f6-a1ca-4b9c8d4773e1" />
 
 <div align="center">
 ᴷᴿ • ᴱᴺᴳ
