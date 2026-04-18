@@ -5,11 +5,7 @@
 <p align="center">
   
 
-  <div align="center">
-    ᵃʳᵗ ᵇʸ ᵐᵉ
-    </div>
-    
-![Image](https://github.com/user-attachments/assets/4d0ccc07-7575-41a1-9806-30b2d6023df3)
+ <img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/f8997e57-3e00-4399-aa7e-b3d9bad97bc6" />
 
 <div align="center">
 ᴷᴿ • ᴱᴺᴳ
