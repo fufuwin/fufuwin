@@ -5,11 +5,8 @@
 <p align="center">
 
    
-<div align="center">
-ᵃʳᵗ ᵇʸ ᵐᵉ
-</div>
 
- <img width="1500" height="2100" alt="Image" src="https://github.com/user-attachments/assets/5c117ebf-d934-4aa5-b46b-20b48c3b2076" />
+ <img width="1500" height="1500" alt="Image" src="https://github.com/user-attachments/assets/0c3d2ff8-4887-4835-be41-16c096d31c51" />
 
  
 <div align="center">
