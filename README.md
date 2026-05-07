@@ -4,8 +4,11 @@
   &nbsp;&nbsp;&nbsp; 
 <p align="center">
    
-<img width="480" height="208" alt="Image" src="https://github.com/user-attachments/assets/c64209df-0c25-4e41-8d14-cb5b92feb1f6" />
+<div align="center">
+ᵃʳᵗ ᵇʸ ᵐᵉ
+</div>
 
+<img width="1472" height="1472" alt="Image" src="https://github.com/user-attachments/assets/4df01d1a-514e-4e0e-aedc-00ed2836bedc" />
 
 <div align="center">
   너 정말 아름다워
