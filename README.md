@@ -1,14 +1,6 @@
-<div align="center">
-  <a 
-  href="https://fufuwin.atabook.org/"><b>ᴀᴛᴀ ʙᴏᴏᴋ</b></a>
-  &nbsp;&nbsp;&nbsp; 
-<p align="center">
-   
-<div align="center">
-ᵃʳᵗ ᵇʸ ᵐᵉ
-</div>
 
-<img width="1472" height="1472" alt="Image" src="https://github.com/user-attachments/assets/4df01d1a-514e-4e0e-aedc-00ed2836bedc" />
+
+<img width="498" height="442" alt="Image" src="https://github.com/user-attachments/assets/72e02542-fc45-4ba7-b0a4-1d0f9ffb2ef1" />
 
 <div align="center">
   너 정말 아름다워
