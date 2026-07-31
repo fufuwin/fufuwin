@@ -1,4 +1,5 @@
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/e3e20639-2929-4642-9f0c-f29e0a75fc3c" />
+<img width="2000" height="2000" alt="Image" src="https://github.com/user-attachments/assets/afdc80f5-4f89-4ff1-a05a-71f224eb9d1c" />
+
 <div align="center">
-  art b me ♡
+art cr: @nuiilar
 </div>
