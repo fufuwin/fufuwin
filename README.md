@@ -1,4 +1,5 @@
+
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/d01cca2c-f1c2-46dc-bad9-768689ddd43e" />
 <div align="center">
   art b me ♡
 </div>
-<img width="2343" height="1378" alt="Image" src="https://github.com/user-attachments/assets/56de0684-82b3-4aae-ac36-442a55fd4121" />
