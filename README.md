@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/4e71f76a-06c0-4e8c-88bb-ad042bc020f7" />
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/1af62ceb-d762-4d8a-b982-f9e0b73acbd5" />
 <div align="center">
   art b me ♡
 </div>
