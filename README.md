@@ -1,5 +1,5 @@
-<img width="2000" height="2000" alt="Image" src="https://github.com/user-attachments/assets/afdc80f5-4f89-4ff1-a05a-71f224eb9d1c" />
+<img width="736" height="509" alt="Image" src="https://github.com/user-attachments/assets/43e53551-ae54-43bc-ac36-01dd030261ca" />
 
 <div align="center">
-art cr: @nuiilar
+💤
 </div>
