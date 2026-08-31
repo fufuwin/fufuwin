@@ -1,5 +1,5 @@
 <div align="center">
-art by me
+art by me (ᴡɪᴘ)
 </div>
 <img width="1378" height="1654" alt="Image" src="https://github.com/user-attachments/assets/740ae58d-394c-463d-bd49-f8db90f40d78" />
 
