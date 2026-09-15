@@ -18,8 +18,7 @@ $\texttt{\color{#A1C5FF}𝓘'𝓶 𝓷𝓮𝓿𝓮𝓻 𝓻𝓮𝓪𝓵𝓵𝔂 
   $\texttt{\color{#FFD089}아이테르 sora ✦˖ hotaru 루미네}$ 
   
 </div>
-<br>
-<img width="559" height="314" alt="Image" src="https://github.com/user-attachments/assets/1e850525-bc8a-40d5-902c-4e39506c8ae9" />
+<img width="1929" height="1378" alt="Image" src="https://github.com/user-attachments/assets/afa9be9c-91f5-4ea9-8601-b83c4f1a7bfd" />
 
 <div align="center">
   
