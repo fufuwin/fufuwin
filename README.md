@@ -1,11 +1,9 @@
-<div align="center">
-art by me (ᴡɪᴘ)
-</div>
-<img width="1378" height="1654" alt="Image" src="https://github.com/user-attachments/assets/740ae58d-394c-463d-bd49-f8db90f40d78" />
 
-<img width="2030" height="1400" alt="Image" src="https://github.com/user-attachments/assets/5607aea9-1e2f-4409-9d70-02e125b5d2b2" />
+
+<img width="559" height="314" alt="Image" src="https://github.com/user-attachments/assets/1e850525-bc8a-40d5-902c-4e39506c8ae9" />
 
 <div align="center">
-bang 💥
+  
+  $\texttt{\color{#FFCE5E}"𝒐𝒖𝒓 𝒑𝒂𝒕𝒉𝒔 𝒘𝒊𝒍𝒍 𝒔𝒖𝒓𝒆𝒍𝒚 𝒄𝒓𝒐𝒔𝒔."}$
+  
 </div>
-
