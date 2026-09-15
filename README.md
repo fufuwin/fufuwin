@@ -15,7 +15,7 @@ $\texttt{\color{#10269F}𝓘'𝓶 𝓷𝓮𝓿𝓮𝓻 𝓻𝓮𝓪𝓵𝓵𝔂 
 <br>
 <div align="center">
 
-  $\texttt{\color{#FFD089}✦˖}$ 
+  $\texttt{\color{#FFD089}sora ✦˖ hotaru}$ 
   
 </div>
 <br>
