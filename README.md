@@ -15,7 +15,7 @@ $\texttt{\color{#A1C5FF}𝓘'𝓶 𝓷𝓮𝓿𝓮𝓻 𝓻𝓮𝓪𝓵𝓵𝔂 
 <br>
 <div align="center">
 
-  $\texttt{\color{#FFD089}sora ✦˖ hotaru}$ 
+  $\texttt{\color{#FFD089}아이테르 sora ✦˖ hotaru 루미네}$ 
   
 </div>
 <br>
