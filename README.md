@@ -14,7 +14,7 @@ $\texttt{\color{#0B69A3}─✦ ⏔⏔⏔୨୧⏔⏔⏔ ✦─}$
 <br>
 <div align="center">
 
-  $\texttt{\color{#FBB63F} 𝘴𝘰𝘳𝘢 ✦˖ 𝘩𝘰𝘵𝘢𝘳𝘶}$ 
+  $\texttt{\color{#FBB63F} 空 𝘴𝘰𝘳𝘢 ✦˖ 𝘩𝘰𝘵𝘢𝘳𝘶 蛍}$ 
   
 </div>
 <img width="1929" height="1378" alt="Image" src="https://github.com/user-attachments/assets/afa9be9c-91f5-4ea9-8601-b83c4f1a7bfd" />
