@@ -4,9 +4,10 @@
 
 $\texttt{\color{#1782D3}𝓝𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓮𝓻𝓮 𝔂𝓸𝓾 𝓪𝓻𝓮, 𝓘'𝓿𝓮 𝓬𝓸𝓶𝓮 𝔀𝓲𝓽𝓱 𝓾 𝓽𝓱𝓲𝓼 𝓯𝓪𝓻}$ 
 <br>
- $\texttt{\color{#FBB63F}-✦ ⏔⏔⏔୨୧⏔⏔⏔ ✦-}$
 <br>
-$\texttt{\color{#1782D3}𝓘'𝓶 𝓷𝓮𝓿𝓮𝓻 𝓻𝓮𝓪𝓵𝓵𝔂 𝓵𝓸𝓼𝓽..}$
+ $\texttt{\color{#FBB63F}─✦ ⏔⏔⏔୨୧⏔⏔⏔ ✦─}$
+<br>
+$\texttt{\color{#1782D3}୨ৎ 𝓘'𝓶 𝓷𝓮𝓿𝓮𝓻 𝓻𝓮𝓪𝓵𝓵𝔂 𝓵𝓸𝓼𝓽..}$
 
 </div>
 <img width="600" height="298" alt="Image" src="https://github.com/user-attachments/assets/e436749e-1183-4c62-bd67-7510d2f165dd" />
