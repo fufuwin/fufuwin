@@ -15,13 +15,13 @@ $\texttt{\color{#1782D3}𝓘'𝓶 𝓷𝓮𝓿𝓮𝓻 𝓻𝓮𝓪𝓵𝓵𝔂 
 <br>
 <div align="center">
 
-  $\texttt{\color{#1782D3} sora ✦˖ hotaru}$ 
+  $\texttt{\color{#FBB63F} sora ✦˖ hotaru}$ 
   
 </div>
 <img width="1929" height="1378" alt="Image" src="https://github.com/user-attachments/assets/afa9be9c-91f5-4ea9-8601-b83c4f1a7bfd" />
 
 <div align="center">
   
-  $\texttt{\color{#1782D3}"𝒐𝒖𝒓 𝒑𝒂𝒕𝒉𝒔 𝒘𝒊𝒍𝒍 𝒔𝒖𝒓𝒆𝒍𝒚 𝒄𝒓𝒐𝒔𝒔."}$
+  $\texttt{\color{#FBB63F}"𝒐𝒖𝒓 𝒑𝒂𝒕𝒉𝒔 𝒘𝒊𝒍𝒍 𝒔𝒖𝒓𝒆𝒍𝒚 𝒄𝒓𝒐𝒔𝒔."}$
   
 </div>
