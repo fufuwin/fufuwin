@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  $\texttt{\color{#306FE5}ᴀʀᴛ ʙʏ ᴍᴇ.}$
+  $\texttt{\color{#306FE5}ᴀʀᴛ ʙ ᴍᴇ}$
   
 </div>
 <br>
