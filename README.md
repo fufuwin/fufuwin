@@ -11,8 +11,8 @@
   
 </div>
 <br>
-<img width="735" height="517" alt="Image" src="https://github.com/user-attachments/assets/a84f42f7-af69-436c-8de9-06a2d784340f" />
+<img width="2030" height="1400" alt="Image" src="https://github.com/user-attachments/assets/e2e3594e-97d1-42d3-99ef-5106cd07ee03" />
 
 <div align="center">
-meh
+💥
 </div>
