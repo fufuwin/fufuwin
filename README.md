@@ -1,18 +1,13 @@
 <div align="center">
   
-  $\texttt{\color{#306FE5}𝘸𝘩𝘺 𝘢𝘮 𝘐 𝘧𝘳𝘦𝘦𝘻𝘪𝘯𝘨 𝘢𝘭𝘭 𝘰𝘧 𝘢 𝘴𝘶𝘥𝘥𝘦𝘯?}$
+  $\texttt{\color{#1B1756}𝘸𝘦𝘭𝘤𝘰𝘮𝘦!}$
   
 </div>
-<img width="1378" height="1654" alt="Image" src="https://github.com/user-attachments/assets/78d23614-da34-4938-8003-a555d97a9f66" />
-
-<div align="center">
-  
-  $\texttt{\color{#306FE5}ᴀʀᴛ ʙ ᴍᴇ}$
-  
-</div>
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/67721ee5-3f0d-4e8f-b9f4-417996aa7b74" />
 <br>
-<img width="2030" height="1400" alt="Image" src="https://github.com/user-attachments/assets/e2e3594e-97d1-42d3-99ef-5106cd07ee03" />
-
 <div align="center">
-💥
+𝘦𝘯𝘨/𝘬𝘳/𝘐𝘥 . an artist
+</div>
+<div align="center">
+  I mostly offtab so W2I 
 </div>
