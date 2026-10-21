@@ -11,6 +11,3 @@
 <div align="center">
 an average artist
 </div>
-<div align="center">
-  I mostly offtab so W2I 
-</div>
