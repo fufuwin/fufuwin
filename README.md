@@ -1,13 +1,10 @@
 <div align="center">
   
-  $\texttt{\color{#1B1756}🎐}$
+  $\texttt{\color{#1B1756}💤}$
   
 </div>
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/67721ee5-3f0d-4e8f-b9f4-417996aa7b74" />
+<img width="1445" height="1000" alt="Image" src="https://github.com/user-attachments/assets/5c18f45f-0b06-45be-9525-d2ad86ae060a" />
 <br>
-<div align="center">
-𝘦𝘯𝘨/𝘬𝘳/𝘐𝘥 
-</div>
 <div align="center">
 one of an average artist
 </div>
