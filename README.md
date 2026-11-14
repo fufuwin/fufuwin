@@ -1,8 +1,9 @@
 <div align="center">
-🫧
+.⋆꒰১ 🫧 ໒꒱⋆.
 </div>
 <br>
-<img width="498" height="281" alt="vodyanitsa-vodyanitsa-genshin (1)" src="https://github.com/user-attachments/assets/190d47a3-d2f4-4313-afe0-c1e1c13aadcc" />
+
+<img width="374" height="211" alt="giphy" src="https://github.com/user-attachments/assets/6b16e064-6522-43fc-808c-c1727f25bc52" />
 
 <div align="center">
   
