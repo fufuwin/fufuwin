@@ -1,5 +1,5 @@
 <div align="center">
-.⋆꒰১ 🫧 ໒꒱⋆.
+꒰১ 🫧 ໒꒱
 </div>
 <br>
 
