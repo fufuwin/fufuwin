@@ -5,6 +5,8 @@
 
 <img width="374" height="211" alt="giphy" src="https://github.com/user-attachments/assets/6b16e064-6522-43fc-808c-c1727f25bc52" />
 
+<br>
+
 <div align="center">
   
   $\texttt{\color{#1B1756}tsaritsa}$
