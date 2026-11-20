@@ -10,6 +10,8 @@
 
 <div align="center">
   
+$\texttt{\color{#F6EFD3}ᵒᶠᶠᵗᵃᵇ • ᵐᵃʸ ᵈⁱˢᶜᵒⁿⁿᵉᶜᵗ ᵃᵗ ᵃⁿʸ ᵗⁱᵐᵉ}$
+  
 $\texttt{\color{#F6EFD3}ᴸᵉᵃᵛᵉ ᵃ ᵐᵉˢˢᵃᵍᵉ ᵒⁿ ᵐʸ ᵃᵗᵃ ⁱᶠ ᴵ ᵐⁱˢˢ ᵘʳ ʷʰⁱˢ}$
 
 </div>
