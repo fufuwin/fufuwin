@@ -10,7 +10,6 @@
 
 <div align="center">
   
-  $\texttt{\color{#F6EFD3}I mostly offtab}$
-  
-  $\texttt{\color{#F6EFD3}leave a message on my ata if I don't resp to your whisper}$
+$\texttt{\color{#F6EFD3}leave a message on my ata if I don't resp to ur whis}$
+
 </div>
